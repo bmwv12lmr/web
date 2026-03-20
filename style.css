@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f4f4; /* Light gray background to prove CSS loaded */
+}
+
+.test-box {
+    border: 3px solid #8c1515; /* Stanford Red border */
+    padding: 20px;
+    background-color: white;
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+}
