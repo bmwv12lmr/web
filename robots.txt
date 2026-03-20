@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# Allow Google to read the sitemaps even though the site itself is blocked
+Allow: /stanford-sitemap.xml
+Allow: /iu-sitemap.xml
